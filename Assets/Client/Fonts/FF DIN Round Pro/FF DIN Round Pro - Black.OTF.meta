@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 8d2bc7290f66caa4aa2f28bb2f22f344
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DIN Round Pro
+  fontNames:
+  - DIN Round Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8c1ed3b1ab1d36344ba0d99c27236306, type: 3}
+  - {fileID: 12800000, guid: ab1da84c4a2d85449a8e279efd727d4b, type: 3}
+  - {fileID: 12800000, guid: 18ad6b4d4c1760f49ad87c2ccc193e38, type: 3}
+  - {fileID: 12800000, guid: b5a0f85f78283454e8e512306a8ac451, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

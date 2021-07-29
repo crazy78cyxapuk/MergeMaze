@@ -1,0 +1,20 @@
+{
+    "name": "lionKitExample",
+    "references": [
+        "GUID:8d8f62092e64e564da8f8ef5ba790070",
+        "GUID:a4cfc1a18fa3a469b96d885db522f42e",
+        "GUID:b5691bd4824c29149a31ac2738b76af3",
+        "GUID:844250b57d2ffe649b05d28b28f3351d",
+        "GUID:2a2c6b78f59e54c18bad843e5dcda1dc",
+        "GUID:0b9245e0c91f96d4cbafe8101e949878"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
